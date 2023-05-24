@@ -9,7 +9,7 @@ public class Main {
         employeeBook.addEmployee("Сергеев Сергей Валентинович", 4, 33000);
         employeeBook.addEmployee("Петрова Анна Сергевна", 3, 53000);
         employeeBook.addEmployee("Потров Иван Игнатьевич", 2, 93000);
-        employeeBook.addEmployee("Питровская Валерия Игнатьевна", 5, 18000);
+        employeeBook.addEmployee("Петровская Валерия Игнатьевна", 5, 18000);
         employeeBook.addEmployee("Анкин Сергей Федорович", 1, 83000);
         employeeBook.addEmployee("Петькин Михаил Иванович", 5, 45000);
         employeeBook.addEmployee("Зайкина Светлана Игоревна", 2, 49000);
