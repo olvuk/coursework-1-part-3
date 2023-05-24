@@ -139,8 +139,8 @@ public class EmployeeBook {
     }
 
     public void printEmployees() {
-        for (Employee e : employees) {
-            System.out.println(e);
+        for (Employee employee : employees) {
+            System.out.println(employee);
         }
     }
 
